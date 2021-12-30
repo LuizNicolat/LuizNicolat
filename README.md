@@ -3,6 +3,11 @@
 <p>
   
 ### Hi there <img width="3%" src="hand1.gif"/>
+  
+  I am a Java deloper and I'm looking for collaboration in projects related to Java or Spring Boot.
+- 😍 I’m currently working with microservice development using Spring Boot.
+- 🎞 I’m currently learning Angular Framework 11.
+- 🎈 I’m looking to collaborate on any Java projects.
 
 ## Languages
 
@@ -17,7 +22,7 @@
 
 ## Frameworks
 
-<p align='left'>
+<p align='center'>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
@@ -29,21 +34,36 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 <p>
+  
+## IDEs
+  
+<p align='center'>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<p>
+  
+## Versioning
+ 
+ <p align='center'>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<p>
+  
 
+## Current Setup
+
+<p align='center'>
+<img src="https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-GTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<p>
+  
+<p align='center'>
+<img src="https://img.shields.io/badge/lenovo-Ideapad%20Gaming%203i-E2231A?style=for-the-badge&logo=acer&logoColor=white"/>
+<p>
+   
 ## Profile Status
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiznicolat)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**LuizNicolat/LuizNicolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github-readme-stats.vercel.app/api/top-langs/?username=luiznicolat
