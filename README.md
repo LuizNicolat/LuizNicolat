@@ -2,7 +2,7 @@
 <img style="max-width: 480px;" src="1_zVnWJtyGOX_kUIDm6ccCfQ.gif" style="max-width=50%;"/>
 <p>
   
-### Hi there <img src="hand1.gif" style="max-width=3%;"/>
+### Hi there <img style="max-width: 3%;" src="hand1.gif"/>
 
 ## Languages
 
