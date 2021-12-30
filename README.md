@@ -1,8 +1,8 @@
 <p align="center">
-<img style="max-width: 480px;" src="1_zVnWJtyGOX_kUIDm6ccCfQ.gif" />
+<img style="max-width: 480px;" src="1_zVnWJtyGOX_kUIDm6ccCfQ.gif" style="max-width=50%"/>
 <p>
   
-### Hi there <img src="hand1.gif" />
+### Hi there <img src="hand1.gif" style="max-width=3%"/>
 
 ## Languages
 
