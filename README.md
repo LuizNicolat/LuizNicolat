@@ -1,5 +1,5 @@
 <p align="center">
-<img style="max-height: 480px;" src="1_zVnWJtyGOX_kUIDm6ccCfQ.gif" />
+<img style="max-width: 480px;" src="1_zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 <p>
   
 ### Hi there 👋
