@@ -1,5 +1,5 @@
 <p align="center">
-<img style="max-width: 480px;" src="1_zVnWJtyGOX_kUIDm6ccCfQ.gif" style="max-width=50%;"/>
+<img width="50%" src="1_zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 <p>
   
 ### Hi there <img width="3%" src="hand1.gif"/>
