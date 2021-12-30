@@ -1,5 +1,7 @@
-<img src="1_zVnWJtyGOX_kUIDm6ccCfQ.gif" />
-
+<p align="center">
+<img width="480" height="228" src="1_zVnWJtyGOX_kUIDm6ccCfQ.gif" />
+<p>
+  
 ### Hi there 👋
 
 ## Languages
