@@ -2,7 +2,7 @@
 <img style="max-width: 480px;" src="1_zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 <p>
   
-### Hi there <img src="hand.gif" />
+### Hi there <img src="hand1.gif" />
 
 ## Languages
 
