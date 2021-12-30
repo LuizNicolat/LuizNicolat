@@ -2,7 +2,7 @@
 
 ## Frameworks
 
-![image]({https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white})
+![image]({https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white})
 
 ## Profile Status
 
